@@ -1,7 +1,6 @@
 # Phone Image Dataset
 
-A public dataset of mobile phones and their images, sourced from
-[gadgets.beebom.com](https://gadgets.beebom.com).
+A public dataset of mobile phones and their images.
 
 ## Contents
 
@@ -15,9 +14,3 @@ A public dataset of mobile phones and their images, sourced from
 
 `devices.json` also contains a `meta` block with the dataset generation
 timestamp and counts.
-
-## Source
-
-Data and images are sourced from
-[gadgets.beebom.com](https://gadgets.beebom.com). This repository contains
-the cleaned public dataset.
